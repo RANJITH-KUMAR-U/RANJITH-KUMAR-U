@@ -3,9 +3,9 @@
 🎓 Computer Science & Engineering student @ Alliance University (2022–2026)<br>
 💻 Passionate about **backend development**, **machine learning**, and building scalable software solutions.<br>
 🔧 Experienced in Java, Spring Boot, Python, and ML frameworks like Scikit-learn.<br>
-🧠 Currently deepening my knowledge in AI/ML integration and high‑performance systems.<br><br>
+🧠 Currently deepening my knowledge in **RAG (Retrieval-Augmented Generation)**, AI agents, and integrating LLMs into applications – intermediate level and actively building.<br><br>
 🚀 **What I’m up to**<br>
-- 🔭 Working on projects that combine robust backend architecture with intelligent features.<br>
+- 🔭 Working on projects that combine robust backend architecture with intelligent features, including RAG-based systems.<br>
 - 🌱 Learning more about microservices, Docker, and model deployment.<br>
 - 🤝 Open to internships, apprenticeships, and collaborations in software engineering and AI.<br>
 - ⚡ Fun fact: I love solving DSA problems and have completed 40+ on LeetCode.
@@ -16,7 +16,7 @@
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
